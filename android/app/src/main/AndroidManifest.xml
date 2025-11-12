@@ -26,8 +26,8 @@
 </manifest> -->    
 
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.MSMIS">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- package="com.MSMIS" -->
 
     <!-- Internet permission for React Native -->
     <uses-permission android:name="android.permission.INTERNET" />
